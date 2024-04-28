@@ -1,3 +1,11 @@
+# My
+workspace
+my_serverless
+run
+
+*.pkl
+*.pth
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
