@@ -2,6 +2,7 @@
 workspace
 my_serverless
 run
+cvat/serverless/deploy_my.sh
 
 *.pkl
 *.pth
